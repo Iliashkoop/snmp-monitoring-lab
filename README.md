@@ -67,3 +67,7 @@ chmod +x *.sh
    4 |  10%
    5 |  10%
 ```
+
+## View-Based Access Control
+Реализована система разграничения доступа через Views.
+См. файл VIEW_PROOF.txt
